@@ -45,7 +45,3 @@ This project is a summary of this back-end trimester: authentication, NodeJS, Mo
 * Update the endpoint POST /files endpoint to start a background processing for generating thumbnails for a file of type image:
 
 ---
-
-## Author
-* **Paula Sotelo** - [omeinsotelo](https://github.com/omeinsotelo)
-* **Felipe Satizabal** - [felipesv](https://github.com/felipesv)
